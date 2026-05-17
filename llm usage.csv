@@ -1,0 +1,4 @@
+prompts,token,model
+explain AI,150,GPT-4
+Write_code,300,GPT-4
+Summerize,280,Cloud
